@@ -1,4 +1,4 @@
 # JS-Gateway
 NodeJS implementation of IPNS-Link Gateway
 
-**Coming soon.**
+**This version is not working and should not be deployed.**
